@@ -1,0 +1,6 @@
+The matrix size:  1000 * 1000 
+Creating and initializing matrices...
+
+Starting parallel computation...
+
+Parallel calculation time: 0.553000 seconds
